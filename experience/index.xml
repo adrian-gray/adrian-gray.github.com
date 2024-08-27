@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiences on </title>
-    <link>https://www.endual.com/experience/</link>
+    <link>https://endual.com/experience/</link>
     <description>Recent content in Experiences on </description>
     <generator>Hugo</generator>
     <language>en-au</language>
     <lastBuildDate>Tue, 27 Aug 2024 14:57:44 +1000</lastBuildDate>
-    <atom:link href="https://www.endual.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://endual.com/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering Manager - Anonymous Social Gaming Company</title>
-      <link>https://www.endual.com/experience/red-desert/</link>
+      <link>https://endual.com/experience/red-desert/</link>
       <pubDate>Tue, 27 Aug 2024 14:57:44 +1000</pubDate>
-      <guid>https://www.endual.com/experience/red-desert/</guid>
+      <guid>https://endual.com/experience/red-desert/</guid>
       <description>A fresh new startup I was the first hire for a funded new social media gaming company still operating in stealth mode. I was brought in to build the company game frameworks, based on PixiJS, and build two teams of developers, one in Australia and one in the Philippines.&#xA;We&amp;rsquo;ve already built multiple online games for the Australian and international markets and are in the process of launching them and building more.</description>
     </item>
     <item>
       <title>Senior Game Developer - Blake eLearning</title>
-      <link>https://www.endual.com/experience/blake/</link>
+      <link>https://endual.com/experience/blake/</link>
       <pubDate>Tue, 27 Aug 2024 14:23:20 +1000</pubDate>
-      <guid>https://www.endual.com/experience/blake/</guid>
+      <guid>https://endual.com/experience/blake/</guid>
       <description>Back to a steady job Blake eLearning (now 3p Learning) is an Australian-owned, global provider of quality educational products for children to use at school and at home.&#xA;At this point we had a young family, and I was looking for a more stable job, one in EdTech making educational games was a perfect fit. I had a great time there, developing games and building game frameworks for the company&amp;rsquo;s products.</description>
     </item>
     <item>
       <title>Game Developer | Animator - Stunt Pixels</title>
-      <link>https://www.endual.com/experience/stunt-pixels/</link>
+      <link>https://endual.com/experience/stunt-pixels/</link>
       <pubDate>Tue, 27 Aug 2024 14:22:20 +1000</pubDate>
-      <guid>https://www.endual.com/experience/stunt-pixels/</guid>
+      <guid>https://endual.com/experience/stunt-pixels/</guid>
       <description>Starting our own game studio Following a successful exit from Next Generation Gaming, two of us decided to start our own game studio. We wanted to create fun, engaging games that were provided to corporate clients.&#xA;Initially working in Flash, we created games for a range of clients, including games for the Commonwealth Games and the Rugby World Cup.&#xA;We then diversified and started developing Facebook games, and early social media sites.</description>
     </item>
     <item>
       <title>Animator - Next Generation Gaming</title>
-      <link>https://www.endual.com/experience/nextgen/</link>
+      <link>https://endual.com/experience/nextgen/</link>
       <pubDate>Mon, 26 Aug 2024 14:27:24 +1000</pubDate>
-      <guid>https://www.endual.com/experience/nextgen/</guid>
+      <guid>https://endual.com/experience/nextgen/</guid>
       <description>Life at a funded startup Next Generation Gaming was a funded startup that aimed to create the next generation of online games. The company was founded by a who shared a passion for gaming and wanted to create a platform that would revolutionize the gaming industry.&#xA;I was hired as an animator, but quickly took on additional responsibilities and became a game developer. I worked on over 30 games during my time at Next Generation Gaming, and was responsible for creating animations, graphics, core game engine components, and developing complete social we games.</description>
     </item>
   </channel>
