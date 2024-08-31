@@ -1,0 +1,28 @@
+{"frames": {
+
+"flower":
+{
+	"frame": {"x":1,"y":175,"w":160,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":15,"w":160,"h":150},
+	"sourceSize": {"w":200,"h":180}
+},
+"flower_blur":
+{
+	"frame": {"x":1,"y":1,"w":160,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":4,"w":160,"h":172},
+	"sourceSize": {"w":200,"h":180}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flower.png",
+	"format": "RGBA8888",
+	"size": {"w":162,"h":326},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c12e5e7e233304627f1b4e6552788ab1:ac0ecdadafefb713c67751f67b30c733:e5195cc89bf882fc7be5fc838224528a$"
+}
+}

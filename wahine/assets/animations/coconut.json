@@ -1,0 +1,28 @@
+{"frames": {
+
+"coconut":
+{
+	"frame": {"x":1,"y":1,"w":169,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":20,"w":169,"h":144},
+	"sourceSize": {"w":200,"h":180}
+},
+"coconut_blur":
+{
+	"frame": {"x":1,"y":147,"w":168,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":9,"w":168,"h":166},
+	"sourceSize": {"w":200,"h":180}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coconut.png",
+	"format": "RGBA8888",
+	"size": {"w":171,"h":314},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:73ae531836a299668090bee4c4450371:449666f33c525adb2083d98eaa532981:8ed258c6dad03d24596834a116036c34$"
+}
+}

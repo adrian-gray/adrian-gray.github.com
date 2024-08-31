@@ -1,0 +1,28 @@
+{"frames": {
+
+"jack":
+{
+	"frame": {"x":1,"y":160,"w":112,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":21,"w":112,"h":136},
+	"sourceSize": {"w":200,"h":180}
+},
+"jack_blur":
+{
+	"frame": {"x":1,"y":1,"w":112,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":11,"w":112,"h":157},
+	"sourceSize": {"w":200,"h":180}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jack.png",
+	"format": "RGBA8888",
+	"size": {"w":114,"h":297},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b4f8561037da3d5a6cece94a29799c37:5de70ccc349c63c420f910574e5e3307:775b965ff31499f222ae98f50eee2ab4$"
+}
+}
