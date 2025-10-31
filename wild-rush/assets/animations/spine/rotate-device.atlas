@@ -1,0 +1,11 @@
+rotate-device.webp
+size:1356,956
+filter:Linear,Linear
+pma:true
+RotateDevice_Arrow
+bounds:2,114,840,762
+offsets:111,118,1000,1000
+rotate:90
+RotateDevice_Screen
+bounds:766,2,588,952
+offsets:206,24,1000,1000
