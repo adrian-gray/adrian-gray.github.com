@@ -1,1 +1,25 @@
-{"__comment":"Isle of Man","gameConfig":{"minimumSpinTimeInMs":2500,"hasSpinStop":false,"hasAutoPlay":false,"hasHyperSpin":false,"hasCelebrationsBelowBet":false,"hasBuyFeature":true},"wrapperConfig":{"ui":{"topBar":{"clock":true},"bottomBar":{"elapsedTime":true,"lblBalance":true,"lblNetAmount":true,"lblBet":true}}}}
+{
+  "__comment": "Isle of Man",
+
+  "gameConfig": {
+    "minimumSpinTimeInMs": 2500,
+    "hasSpinStop": false,
+    "hasAutoPlay": false,
+    "hasHyperSpin": false,
+    "hasCelebrationsBelowBet": false,
+    "hasBuyFeature": true
+  },
+  "wrapperConfig": {
+    "ui": {
+      "topBar": {
+        "clock": true
+      },
+      "bottomBar": {
+        "elapsedTime": true,
+        "lblBalance": true,
+        "lblNetAmount": true,
+        "lblBet": true
+      }
+    }
+  }
+}

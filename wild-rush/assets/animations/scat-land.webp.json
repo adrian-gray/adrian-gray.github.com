@@ -1,1 +1,135 @@
-{"frames":{"scat-land-00":{"frame":{"x":1,"y":1,"w":161,"h":207},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":9,"y":40,"w":161,"h":207},"sourceSize":{"w":180,"h":284}},"scat-land-01":{"frame":{"x":681,"y":1,"w":180,"h":276},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":180,"h":276},"sourceSize":{"w":180,"h":284}},"scat-land-02":{"frame":{"x":1,"y":164,"w":180,"h":276},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":180,"h":276},"sourceSize":{"w":180,"h":284}},"scat-land-03":{"frame":{"x":279,"y":179,"w":180,"h":277},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":6,"w":180,"h":277},"sourceSize":{"w":180,"h":284}},"scat-land-04":{"frame":{"x":558,"y":183,"w":180,"h":276},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":6,"w":180,"h":276},"sourceSize":{"w":180,"h":284}},"scat-land-05":{"frame":{"x":1,"y":346,"w":180,"h":275},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":180,"h":275},"sourceSize":{"w":180,"h":284}},"scat-land-06":{"frame":{"x":278,"y":361,"w":180,"h":275},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":7,"w":180,"h":275},"sourceSize":{"w":180,"h":284}},"scat-land-07":{"frame":{"x":555,"y":365,"w":180,"h":274},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":8,"w":180,"h":274},"sourceSize":{"w":180,"h":284}},"scat-land-08":{"frame":{"x":1,"y":528,"w":180,"h":274},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":8,"w":180,"h":274},"sourceSize":{"w":180,"h":284}},"scat-land-09":{"frame":{"x":277,"y":543,"w":180,"h":272},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":9,"w":180,"h":272},"sourceSize":{"w":180,"h":284}},"scat-land-10":{"frame":{"x":551,"y":547,"w":180,"h":271},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":0,"y":9,"w":180,"h":271},"sourceSize":{"w":180,"h":284}},"scat-land-11":{"frame":{"x":831,"y":450,"w":180,"h":269},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":10,"w":180,"h":269},"sourceSize":{"w":180,"h":284}},"scat-land-12":{"frame":{"x":836,"y":183,"w":180,"h":265},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":0,"y":11,"w":180,"h":265},"sourceSize":{"w":180,"h":284}},"scat-land-13":{"frame":{"x":419,"y":1,"w":176,"h":260},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":2,"y":13,"w":176,"h":260},"sourceSize":{"w":180,"h":284}},"scat-land-14":{"frame":{"x":210,"y":1,"w":161,"h":207},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":9,"y":40,"w":161,"h":207},"sourceSize":{"w":180,"h":284}}},"animations":{"scat-land":["scat-land-00","scat-land-01","scat-land-02","scat-land-03","scat-land-04","scat-land-05","scat-land-06","scat-land-07","scat-land-08","scat-land-09","scat-land-10","scat-land-11","scat-land-12","scat-land-13","scat-land-14"]},"meta":{"app":"https://www.codeandweb.com/texturepacker","version":"1.1","image":"scat-land.webp","format":"RGBA8888","size":{"w":1017,"h":728},"scale":"1","smartupdate":"$TexturePacker:SmartUpdate:0a5eebd2a43ebe18668e0741306fd0b7:507c6117ffaa769460ccd04683a3f649:b7e187ac434a30359eb434a9abd430b1$"}}
+{"frames": {
+
+"scat-land-00":
+{
+	"frame": {"x":1,"y":1,"w":161,"h":207},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":40,"w":161,"h":207},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-01":
+{
+	"frame": {"x":681,"y":1,"w":180,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":180,"h":276},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-02":
+{
+	"frame": {"x":1,"y":164,"w":180,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":180,"h":276},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-03":
+{
+	"frame": {"x":279,"y":179,"w":180,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":180,"h":277},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-04":
+{
+	"frame": {"x":558,"y":183,"w":180,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":180,"h":276},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-05":
+{
+	"frame": {"x":1,"y":346,"w":180,"h":275},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":180,"h":275},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-06":
+{
+	"frame": {"x":278,"y":361,"w":180,"h":275},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":180,"h":275},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-07":
+{
+	"frame": {"x":555,"y":365,"w":180,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":180,"h":274},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-08":
+{
+	"frame": {"x":1,"y":528,"w":180,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":180,"h":274},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-09":
+{
+	"frame": {"x":277,"y":543,"w":180,"h":272},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":180,"h":272},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-10":
+{
+	"frame": {"x":551,"y":547,"w":180,"h":271},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":180,"h":271},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-11":
+{
+	"frame": {"x":831,"y":450,"w":180,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":180,"h":269},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-12":
+{
+	"frame": {"x":836,"y":183,"w":180,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":180,"h":265},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-13":
+{
+	"frame": {"x":419,"y":1,"w":176,"h":260},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":176,"h":260},
+	"sourceSize": {"w":180,"h":284}
+},
+"scat-land-14":
+{
+	"frame": {"x":210,"y":1,"w":161,"h":207},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":40,"w":161,"h":207},
+	"sourceSize": {"w":180,"h":284}
+}},
+"animations": {
+	"scat-land": ["scat-land-00","scat-land-01","scat-land-02","scat-land-03","scat-land-04","scat-land-05","scat-land-06","scat-land-07","scat-land-08","scat-land-09","scat-land-10","scat-land-11","scat-land-12","scat-land-13","scat-land-14"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "scat-land.webp",
+	"format": "RGBA8888",
+	"size": {"w":1017,"h":728},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0a5eebd2a43ebe18668e0741306fd0b7:507c6117ffaa769460ccd04683a3f649:b7e187ac434a30359eb434a9abd430b1$"
+}
+}

@@ -1,0 +1,143 @@
+/* Enforce CSS */
+#enforce-root {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+#enforce-content {
+  display: none;
+  background-color: black;
+
+  border: 2px solid red;
+  border-radius: 50px 10px;
+
+  color: white;
+
+  position: fixed;
+  right: 10px;
+  bottom: 35px;
+  width: 350px;
+  height: 160px;
+}
+
+#enforce-content p {
+  text-align: center;
+}
+
+.enforce-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 5px;
+}
+
+#enforce-clear-btn {
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateX(-50%);
+}
+
+/* Enforce HUD */
+#enforce-hud {
+  display: none;
+  background-color: rgba(255, 0, 0, 0.5);
+
+  border: 1px solid maroon;
+  border-radius: 10px;
+
+  position: fixed;
+  right: 82px;
+  bottom: 5px;
+  width: 320px;
+  height: 20px;
+
+  color: lightgoldenrodyellow;
+  text-align: center;
+}
+
+#enforce-hud p {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Multi-Stops CSS */
+#multi-stops-root {
+  position: absolute;
+  bottom: 0;
+  right: 40px;
+}
+
+#multi-stops-content {
+  display: none;
+  background-color: black;
+
+  border: 2px solid red;
+  border-radius: 50px 10px;
+
+  color: white;
+
+  position: fixed;
+  right: 50px;
+  bottom: 35px;
+  width: 250px;
+  height: 120px;
+}
+
+#multi-stops-content p {
+  text-align: center;
+}
+
+.multi-stops-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 20px;
+}
+
+#multi-stops-generate-btn {
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateX(-50%);
+}
+
+/* Autoplay CSS */
+#autoplay-content {
+  display: none;
+  background-color: black;
+
+  border: 2px solid red;
+  border-radius: 10px;
+
+  color: white;
+
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  width: 200px;
+  height: 125px;
+}
+
+#autoplay-content p {
+  text-align: center;
+}
+
+.autoplay-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 5px;
+}
+
+#autoplay-close-btn {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateX(-50%);
+}

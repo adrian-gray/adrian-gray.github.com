@@ -1,1 +1,11 @@
-{"__comment":"Alderney / Guernsey","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true}}
+{
+  "__comment": "Alderney / Guernsey",
+
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  }
+}

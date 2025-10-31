@@ -1,1 +1,11 @@
-{"__comment":"Ontario (Canada)","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true}}
+{
+  "__comment": "Ontario (Canada)",
+  
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  }
+}

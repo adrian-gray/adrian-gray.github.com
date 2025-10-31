@@ -1,1 +1,55 @@
-{"frames":{"wild-x-explosion":{"frame":{"x":737,"y":1,"w":727,"h":267},"rotated":true,"trimmed":true,"spriteSourceSize":{"x":17,"y":28,"w":727,"h":267},"sourceSize":{"w":760,"h":320}},"wild-x-multiplier-2":{"frame":{"x":1,"y":1,"w":734,"h":267},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":13,"y":28,"w":734,"h":267},"sourceSize":{"w":760,"h":320}},"wild-x-multiplier-3":{"frame":{"x":1,"y":270,"w":734,"h":267},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":13,"y":28,"w":734,"h":267},"sourceSize":{"w":760,"h":320}},"wild-x-multiplier-5":{"frame":{"x":1,"y":539,"w":734,"h":267},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":13,"y":28,"w":734,"h":267},"sourceSize":{"w":760,"h":320}},"wild-x-sticky":{"frame":{"x":1,"y":808,"w":654,"h":269},"rotated":false,"trimmed":true,"spriteSourceSize":{"x":54,"y":28,"w":654,"h":269},"sourceSize":{"w":760,"h":320}}},"animations":{"wild-x-multiplier":["wild-x-multiplier-2","wild-x-multiplier-3","wild-x-multiplier-5"]},"meta":{"app":"https://www.codeandweb.com/texturepacker","version":"1.1","image":"wild-x-banners.webp","format":"RGBA8888","size":{"w":1005,"h":1078},"scale":"1","smartupdate":"$TexturePacker:SmartUpdate:5e899a6ae960574209d526b8c17ad476:9939e64daecd2e6546aecd7c46c2b2d6:5e0d00e0cae8cc372403ea1a570584df$"}}
+{"frames": {
+
+"wild-x-explosion":
+{
+	"frame": {"x":737,"y":1,"w":727,"h":267},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":28,"w":727,"h":267},
+	"sourceSize": {"w":760,"h":320}
+},
+"wild-x-multiplier-2":
+{
+	"frame": {"x":1,"y":1,"w":734,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":28,"w":734,"h":267},
+	"sourceSize": {"w":760,"h":320}
+},
+"wild-x-multiplier-3":
+{
+	"frame": {"x":1,"y":270,"w":734,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":28,"w":734,"h":267},
+	"sourceSize": {"w":760,"h":320}
+},
+"wild-x-multiplier-5":
+{
+	"frame": {"x":1,"y":539,"w":734,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":28,"w":734,"h":267},
+	"sourceSize": {"w":760,"h":320}
+},
+"wild-x-sticky":
+{
+	"frame": {"x":1,"y":808,"w":654,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":28,"w":654,"h":269},
+	"sourceSize": {"w":760,"h":320}
+}},
+"animations": {
+	"wild-x-multiplier": ["wild-x-multiplier-2","wild-x-multiplier-3","wild-x-multiplier-5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "wild-x-banners.webp",
+	"format": "RGBA8888",
+	"size": {"w":1005,"h":1078},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5e899a6ae960574209d526b8c17ad476:9939e64daecd2e6546aecd7c46c2b2d6:5e0d00e0cae8cc372403ea1a570584df$"
+}
+}

@@ -1,1 +1,11 @@
-{"__comment":"Croatia","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true}}
+{
+  "__comment": "Croatia",
+
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  }
+}

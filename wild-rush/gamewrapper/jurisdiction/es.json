@@ -1,1 +1,11 @@
-{"__comment":"Spain","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true}}
+{
+  "__comment": "Spain",
+
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  }
+}

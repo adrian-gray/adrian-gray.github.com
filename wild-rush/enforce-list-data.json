@@ -1,0 +1,92 @@
+ {
+    "LIST_STOPS": [
+      {
+        "key": "Base: No Win",
+        "value": "[33, 96, 86, 64, 120]"
+      },
+      {
+        "key": "Base: Win",
+        "value": "[19, 7, 9, 17, 4]"
+      },
+      {
+        "key": "Base: WILDs(2nd, 3rd, 4th)",
+        "value": "[0, 32, 42, 45, 0]"
+      },
+      {
+        "key": "Base: WILD(2nd)",
+        "value": "[0, 32, 3, 3, 0]"
+      },
+      {
+        "key": "Base: WILD(3rd)",
+        "value": "[0, 3, 42, 3, 0]"
+      },
+      {
+        "key": "Base: WILD(4th)",
+        "value": "[0, 3, 3, 45, 0]"
+      },
+      {
+        "key": "Base: Free Spin trigger",
+        "value": "[0, 16, 5, 20, 0]"
+      },
+      {
+        "key": "Free: No Win",
+        "value": "[97, 5, 0, 5, 0]"
+      },
+      {
+        "key": "FG: WILDs(2nd, 3rd, 4th)",
+        "value": "[0, 3, 14, 14, 0]"
+      },
+      {
+        "key": "FG: WILD(2nd)",
+        "value": "[0, 3, 4, 4, 0]"
+      },
+      {
+        "key": "FG: WILD(3rd)",
+        "value": "[0, 8, 14, 4, 0]"
+      },
+      {
+        "key": "FG: WILD(4th)",
+        "value": "[0, 8, 4, 14, 0]"
+      },
+      {
+        "key": "FG: SWILDs(2nd, 3rd, 4th)",
+        "value": "[0, 84, 157, 153, 0]"
+      },
+      {
+        "key": "FG: SWILD(2nd)",
+        "value": "[0, 84, 4, 4, 0]"
+      },
+      {
+        "key": "FG: SWILD(3rd)",
+        "value": "[0, 8, 157, 4, 0]"
+      },
+      {
+        "key": "FG: SWILD(4th)",
+        "value": "[0, 8, 4, 153, 0]"
+      },
+      {
+        "key": "FG: XWILD(3rd) - Explode",
+        "value": "[0, 0, 120, 0, 0, 1]"
+      },
+      {
+        "key": "FG: XWILD(4th) - Explode",
+        "value": "[0, 5, 0, 196, 0, 1]"
+      },
+      {
+        "key": "FG: XWILD(3rd) - Sticky",
+        "value": "[0, 0, 120, 17, 0, 2]"
+      },
+      {
+        "key": "FG: XWILD(3rd) - x2Multiplier",
+        "value": "[0, 0, 120, 17, 0, 3, 2]"
+      },
+      {
+        "key": "FG: XWILD(3rd) - x3Multiplier",
+        "value": "[0, 0, 120, 17, 0, 3, 3]"
+      },
+      {
+        "key": "FG: XWILD(3rd) - x5Multiplier",
+        "value": "[0, 0, 120, 17, 0, 3, 5]"
+      }
+    ]
+}

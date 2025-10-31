@@ -1,1 +1,11 @@
-{"__comment":"Pennsylvania (US)","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true}}
+{
+  "__comment": "Pennsylvania (US)",
+
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  }
+}

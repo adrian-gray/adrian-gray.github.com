@@ -1,1 +1,22 @@
-{"__comment":"New Jersey (US)","gameConfig":{"hasSpinStop":true,"hasAutoPlay":true,"hasHyperSpin":true,"hasCelebrationsBelowBet":true,"hasBuyFeature":true},"wrapperConfig":{"ui":{"topBar":{"clock":true},"bottomBar":{"lblBalance":true,"lblBet":true}}}}
+{
+  "__comment": "New Jersey (US)",
+
+  "gameConfig": {
+    "hasSpinStop": true,
+    "hasAutoPlay": true,
+    "hasHyperSpin": true,
+    "hasCelebrationsBelowBet": true,
+    "hasBuyFeature": true
+  },
+  "wrapperConfig": {
+    "ui": {
+      "topBar": {
+        "clock": true
+      },
+      "bottomBar": {
+        "lblBalance": true,
+        "lblBet": true
+      }
+    }
+  }
+}
